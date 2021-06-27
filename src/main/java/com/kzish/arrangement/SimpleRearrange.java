@@ -7,7 +7,7 @@ import java.util.Map;
 //Re-arrange array like arr[i] == i if element is present in the array, else if not present arr[i] == -1.
 public class SimpleRearrange {
 
-    private static int[] simpleRearrange(int[] inputArray) {
+    protected static int[] simpleRearrange(int[] inputArray) {
         int inputArraySize = inputArray.length;
 //        int[] resultArray = new int[inputArraySize];
         Map<Integer, Integer> map = new HashMap<>();
@@ -25,6 +25,7 @@ public class SimpleRearrange {
         return inputArray;
     }
 
+    //Driver code
     public static void main(String[] args) {
         int[] inputArrayOne = new int[]{-1, -1, 6, 1, 9, 3, 2, -1, 4, -1};
         int[] inputArrayTwo = new int[]{19, 7, 0, 3, 18, 15, 12, 6, 1, 8, 11, 10, 9, 5, 13, 16, 2, 14, 17, 4};
