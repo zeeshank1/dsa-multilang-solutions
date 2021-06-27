@@ -20,6 +20,7 @@ public class ArrayRotate {
         int inputArray[] = new int[]{3, 4, 5, 6, 7};
         int rotatedArray[] = rotateArray(inputArray, 2, inputArray.length);
 
+        //Print rotated array
         for (int val: rotatedArray
              ) {
             System.out.println(val);
