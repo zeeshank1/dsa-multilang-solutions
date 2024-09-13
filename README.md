@@ -2,7 +2,7 @@
 
 Learn Data Structure using Java 8+
 
-## Data Structures Must Know (13 Years Experience):
+## Data Structures Must Know :
 
 - Arrays & Strings
 - Linked Lists (Singly, Doubly)
