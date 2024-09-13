@@ -17,3 +17,17 @@ Learn Data Structure using Java 8+
 - Graphs Algorithms (Shortest Path, Minimum Spanning Tree)
 - Advanced Sorting Algorithms (Merge, Quick, Heap Sort)
 - Disjoint Set / Union-Find
+
+2. Data Structures Good to Know for TOP Companies:
+   
+- Segment Trees & Fenwick Trees
+- Interval Trees
+- B-Trees & B+ Trees
+- Skip Lists
+- Bloom Filters
+- K-D Trees (for spatial data)
+- Suffix Automaton
+- Ternary Search Trees
+- Sparse Tables
+- Treaps
+- Circular Buffers
