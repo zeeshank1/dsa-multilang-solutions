@@ -31,3 +31,18 @@ Learn Data Structure using Java 8+
 - Sparse Tables
 - Treaps
 - Circular Buffers
+
+  
+## 3. Data Structures Good to Know for Tier-1 Companies:
+
+- Arrays & Strings (with advanced problem-solving)
+- Dynamic Arrays (Vectors in C++, ArrayLists in Java)
+- Hash Maps & Sets (for efficient lookups)
+- Graphs (Advanced Algorithms: Dijkstra’s, A*, Floyd-Warshall)
+- Heaps / Priority Queues (Min/Max)
+- Tries (For autocomplete, dictionary problems)
+- Dynamic Programming Optimizations (Memoization with DS)
+- Balanced Trees (AVL, Red-Black Trees)
+- Disjoint Set / Union-Find (with path compression)
+- Suffix Arrays & Trees (for pattern matching problems)
+- Advanced Linked Lists (Skip Lists, XOR Linked Lists)
