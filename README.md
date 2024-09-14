@@ -2,7 +2,7 @@
 
 Learn Data Structure using Java 8+
 
-## Data Structures Must Know :
+## 1. Data Structures Must Know :
 
 - Arrays & Strings
 - Linked Lists (Singly, Doubly)
@@ -18,7 +18,7 @@ Learn Data Structure using Java 8+
 - Advanced Sorting Algorithms (Merge, Quick, Heap Sort)
 - Disjoint Set / Union-Find
 
-2. Data Structures Good to Know for TOP Companies:
+## 2. Data Structures Good to Know for TOP Companies:
    
 - Segment Trees & Fenwick Trees
 - Interval Trees
