@@ -4,7 +4,7 @@ Learn Data Structure using Java 8+
 
 ## 1. Data Structures Must Know :
 
-- Arrays & Strings
+- Arrays and Strings
 - Linked Lists (Singly, Doubly)
 - Stacks & Queues
 - Hash Maps / Hash Tables
